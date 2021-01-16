@@ -2,7 +2,7 @@
 
 A simple application built in **React** that displays mouth-watering dishes(whose names you have probably never heard of, nor have I), their ingredients,amount of calories in the ingredients and the images. A treat for the eyes for every foodie out there(including me)!!!!
 
-This is my first work in React. I am extremely grateful to **Simo Edwin** for his amazing tutorials on YouTube.
+This is my first work in React. I am extremely grateful to **Simo Edwin** for his amazing tutorials on YouTube. I have removed my **APP ID AND APP KEY** for security purposes. Get your own from https://www.edamam.com/.
 
 Visit the deployed webpage here: https://ahel2000.github.io/Recipe/
 
