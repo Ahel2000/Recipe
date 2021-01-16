@@ -4,8 +4,8 @@ import Recipe from './Recipe';
 import React,{useEffect,useState}  from "react";
 
 const App=() =>{
-  const APP_ID="f9792ca6";
-  const APP_KEY="8b80357c21e8a3da0c8ced3ba3db7219";
+  const APP_ID="YOUR APP ID";
+  const APP_KEY="YOUR APP KEY";
 
   const [recipes,setRecipes]=useState([]);
   const [search,setSearch]=useState("");
@@ -28,7 +28,7 @@ const App=() =>{
 
   const getRecipes=async()=>{
     // eslint-disable-next-line no-template-curly-in-string
-    const response=await fetch(`https://api.edamam.com/search?q=${query}&app_id=f9792ca6&app_key=8b80357c21e8a3da0c8ced3ba3db7219`);
+    const response=await fetch(`https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
     const data=await response.json();
     setRecipes(data.hits);
     console.log(data.hits);
