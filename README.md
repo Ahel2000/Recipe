@@ -6,4 +6,10 @@ This is my first work in React. I am extremely grateful to **Simo Edwin** for hi
 
 Visit the deployed webpage here: https://ahel2000.github.io/Recipe/
 
+## SOME GLIMPSES OF THE APPLICATION
+
+<img src="https://github.com/Ahel2000/Recipe/blob/main/pic1.png"/>
+<img src="https://github.com/Ahel2000/Recipe/blob/main/Screenshot_20210116-152114.jpg"/>
+<img src="https://github.com/Ahel2000/Recipe/blob/main/Screenshot_20210116-152129.jpg"/>
+
 
